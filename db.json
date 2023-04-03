@@ -1,0 +1,43 @@
+{
+  "units": [
+    {
+      "id": 1,
+      "name": "Unidad 1",
+      "img": "https://static.vecteezy.com/system/resources/previews/000/516/780/original/isometric-house-vector.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Unidad 2"
+    },
+    {
+      "id": 3,
+      "name": "Unidad 3",
+      "img": "https://static.vecteezy.com/system/resources/previews/000/516/780/original/isometric-house-vector.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Unidad 4",
+      "img": "https://static.vecteezy.com/system/resources/previews/000/516/780/original/isometric-house-vector.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Unidad 5",
+      "img": "https://static.vecteezy.com/system/resources/previews/000/516/780/original/isometric-house-vector.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Unidad 6",
+      "img": "https://static.vecteezy.com/system/resources/previews/000/516/780/original/isometric-house-vector.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Unidad 7",
+      "img": "https://static.vecteezy.com/system/resources/previews/000/516/780/original/isometric-house-vector.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Unidad 8",
+      "img": "https://static.vecteezy.com/system/resources/previews/000/516/780/original/isometric-house-vector.jpg"
+    }
+  ]
+}
