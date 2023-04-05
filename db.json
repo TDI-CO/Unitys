@@ -83,20 +83,6 @@
           "template": "template6"
         }
       ]
-    },
-    {
-      "id": 7,
-      "name": "Unidad 7",
-      "img": "https://static.vecteezy.com/system/resources/previews/000/516/780/original/isometric-house-vector.jpg",
-      "lessons": [
-        {
-          "name": "Lección 7",
-          "description": "Lección de prueba de la unidad 7",
-          "video": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-          "img": "https://assets.reedpopcdn.com/g502x_f9QuuM8.jpeg/BROK/thumbnail/1200x1200/quality/100/g502x_f9QuuM8.jpeg",
-          "template": "template7"
-        }
-      ]
     }
   ]
 }
