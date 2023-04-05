@@ -8,7 +8,7 @@
         {
           "name": "Lección 1",
           "description": "Lección de prueba de la unidad 1",
-          "video": "https://youtu.be/NiqGwnHxt6c",
+          "video": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
           "img": "https://assets.reedpopcdn.com/g502x_f9QuuM8.jpeg/BROK/thumbnail/1200x1200/quality/100/g502x_f9QuuM8.jpeg",
           "template": "template1"
         }
@@ -22,7 +22,7 @@
         {
           "name": "Lección 2",
           "description": "Lección de prueba de la unidad 2",
-          "video": "https://youtu.be/NiqGwnHxt6c",
+          "video": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
           "img": "https://assets.reedpopcdn.com/g502x_f9QuuM8.jpeg/BROK/thumbnail/1200x1200/quality/100/g502x_f9QuuM8.jpeg",
           "template": "template2"
         }
@@ -36,7 +36,7 @@
         {
           "name": "Lección 3",
           "description": "Lección de prueba de la unidad 3",
-          "video": "https://youtu.be/NiqGwnHxt6c",
+          "video": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
           "img": "https://assets.reedpopcdn.com/g502x_f9QuuM8.jpeg/BROK/thumbnail/1200x1200/quality/100/g502x_f9QuuM8.jpeg",
           "template": "template3"
         }
@@ -50,7 +50,7 @@
         {
           "name": "Lección 4",
           "description": "Lección de prueba de la unidad 4",
-          "video": "https://youtu.be/NiqGwnHxt6c",
+          "video": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
           "img": "https://assets.reedpopcdn.com/g502x_f9QuuM8.jpeg/BROK/thumbnail/1200x1200/quality/100/g502x_f9QuuM8.jpeg",
           "template": "template4"
         }
@@ -64,7 +64,7 @@
         {
           "name": "Lección 5",
           "description": "Lección de prueba de la unidad 5",
-          "video": "https://youtu.be/NiqGwnHxt6c",
+          "video": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
           "img": "https://assets.reedpopcdn.com/g502x_f9QuuM8.jpeg/BROK/thumbnail/1200x1200/quality/100/g502x_f9QuuM8.jpeg",
           "template": "template5"
         }
@@ -78,7 +78,7 @@
         {
           "name": "Lección 6",
           "description": "Lección de prueba de la unidad 6",
-          "video": "https://youtu.be/NiqGwnHxt6c",
+          "video": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
           "img": "https://assets.reedpopcdn.com/g502x_f9QuuM8.jpeg/BROK/thumbnail/1200x1200/quality/100/g502x_f9QuuM8.jpeg",
           "template": "template6"
         }
@@ -92,23 +92,9 @@
         {
           "name": "Lección 7",
           "description": "Lección de prueba de la unidad 7",
-          "video": "https://youtu.be/NiqGwnHxt6c",
+          "video": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
           "img": "https://assets.reedpopcdn.com/g502x_f9QuuM8.jpeg/BROK/thumbnail/1200x1200/quality/100/g502x_f9QuuM8.jpeg",
           "template": "template7"
-        }
-      ]
-    },
-    {
-      "id": 8,
-      "name": "Unidad 8",
-      "img": "https://static.vecteezy.com/system/resources/previews/000/516/780/original/isometric-house-vector.jpg",
-      "lessons": [
-        {
-          "name": "Lección 8",
-          "description": "Lección de prueba de la unidad 8",
-          "video": "https://youtu.be/NiqGwnHxt6c",
-          "img": "https://assets.reedpopcdn.com/g502x_f9QuuM8.jpeg/BROK/thumbnail/1200x1200/quality/100/g502x_f9QuuM8.jpeg",
-          "template": "template8"
         }
       ]
     }
