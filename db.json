@@ -2,84 +2,84 @@
   "units": [
     {
       "id": 1,
-      "name": "Unidad 1",
-      "img": "https://static.vecteezy.com/system/resources/previews/000/516/780/original/isometric-house-vector.jpg",
+      "name": "Lección 1",
+      "img": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg",
       "lessons": [
         {
           "name": "Lección 1",
-          "description": "Lección de prueba de la unidad 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+          "description": "Lección de prueba de la Lección 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
           "video": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-          "img": "https://assets.reedpopcdn.com/g502x_f9QuuM8.jpeg/BROK/thumbnail/1200x1200/quality/100/g502x_f9QuuM8.jpeg",
+          "img": "https://media.vogue.mx/photos/5cdef96c73838bba32fac932/16:9/w_1280,c_limit/fotografi%CC%81a%20de%20paisaje%206.jpg",
           "template": "template1"
         }
       ]
     },
     {
       "id": 2,
-      "name": "Unidad 2",
-      "img": "https://static.vecteezy.com/system/resources/previews/000/516/780/original/isometric-house-vector.jpg",
+      "name": "Lección 2",
+      "img": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg",
       "lessons": [
         {
           "name": "Lección 2",
-          "description": "Lección de prueba de la unidad 2. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+          "description": "Lección de prueba de la Lección 2. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
           "video": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-          "img": "https://assets.reedpopcdn.com/g502x_f9QuuM8.jpeg/BROK/thumbnail/1200x1200/quality/100/g502x_f9QuuM8.jpeg",
+          "img": "https://media.vogue.mx/photos/5cdef96c73838bba32fac932/16:9/w_1280,c_limit/fotografi%CC%81a%20de%20paisaje%206.jpg",
           "template": "template2"
         }
       ]
     },
     {
       "id": 3,
-      "name": "Unidad 3",
-      "img": "https://static.vecteezy.com/system/resources/previews/000/516/780/original/isometric-house-vector.jpg",
+      "name": "Lección 3",
+      "img": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg",
       "lessons": [
         {
           "name": "Lección 3",
-          "description": "Lección de prueba de la unidad 3. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+          "description": "Lección de prueba de la Lección 3. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
           "video": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-          "img": "https://assets.reedpopcdn.com/g502x_f9QuuM8.jpeg/BROK/thumbnail/1200x1200/quality/100/g502x_f9QuuM8.jpeg",
+          "img": "https://media.vogue.mx/photos/5cdef96c73838bba32fac932/16:9/w_1280,c_limit/fotografi%CC%81a%20de%20paisaje%206.jpg",
           "template": "template3"
         }
       ]
     },
     {
       "id": 4,
-      "name": "Unidad 4",
-      "img": "https://static.vecteezy.com/system/resources/previews/000/516/780/original/isometric-house-vector.jpg",
+      "name": "Lección 4",
+      "img": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg",
       "lessons": [
         {
           "name": "Lección 4",
-          "description": "Lección de prueba de la unidad 4. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+          "description": "Lección de prueba de la Lección 4. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
           "video": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-          "img": "https://assets.reedpopcdn.com/g502x_f9QuuM8.jpeg/BROK/thumbnail/1200x1200/quality/100/g502x_f9QuuM8.jpeg",
+          "img": "https://media.vogue.mx/photos/5cdef96c73838bba32fac932/16:9/w_1280,c_limit/fotografi%CC%81a%20de%20paisaje%206.jpg",
           "template": "template4"
         }
       ]
     },
     {
       "id": 5,
-      "name": "Unidad 5",
-      "img": "https://static.vecteezy.com/system/resources/previews/000/516/780/original/isometric-house-vector.jpg",
+      "name": "Lección 5",
+      "img": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg",
       "lessons": [
         {
           "name": "Lección 5",
-          "description": "Lección de prueba de la unidad 5. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+          "description": "Lección de prueba de la Lección 5. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
           "video": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-          "img": "https://assets.reedpopcdn.com/g502x_f9QuuM8.jpeg/BROK/thumbnail/1200x1200/quality/100/g502x_f9QuuM8.jpeg",
+          "img": "https://media.vogue.mx/photos/5cdef96c73838bba32fac932/16:9/w_1280,c_limit/fotografi%CC%81a%20de%20paisaje%206.jpg",
           "template": "template5"
         }
       ]
     },
     {
       "id": 6,
-      "name": "Unidad 6",
-      "img": "https://static.vecteezy.com/system/resources/previews/000/516/780/original/isometric-house-vector.jpg",
+      "name": "Lección 6",
+      "img": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg",
       "lessons": [
         {
           "name": "Lección 6",
-          "description": "Lección de prueba de la unidad 6. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+          "description": "Lección de prueba de la Lección 6. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
           "video": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-          "img": "https://assets.reedpopcdn.com/g502x_f9QuuM8.jpeg/BROK/thumbnail/1200x1200/quality/100/g502x_f9QuuM8.jpeg",
+          "img": "https://media.vogue.mx/photos/5cdef96c73838bba32fac932/16:9/w_1280,c_limit/fotografi%CC%81a%20de%20paisaje%206.jpg",
           "template": "template6"
         }
       ]
