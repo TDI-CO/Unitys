@@ -70,19 +70,5 @@
         }
       ]
     },
-    {
-      "id": 6,
-      "name": "Lección 6",
-      "img": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg",
-      "lessons": [
-        {
-          "name": "Lección 6",
-          "description": "Lección de prueba de la Lección 6. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-          "video": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-          "img": "https://media.vogue.mx/photos/5cdef96c73838bba32fac932/16:9/w_1280,c_limit/fotografi%CC%81a%20de%20paisaje%206.jpg",
-          "template": "template6"
-        }
-      ]
-    }
   ]
 }
